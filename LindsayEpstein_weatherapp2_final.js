@@ -168,11 +168,11 @@ function run(){
   xT = (yT-1334)/-13.34;
   ellipse(xT,yT,5,5);
 
-  yP = map(P,100,0,10,330);
+  yP = map(P,1,0,10,330);
   xP = (yP-1000.5)/-6.67
   ellipse(xP,yP,5,5);
 
-  yH = map(H,100,0,10,400);
+  yH = map(H,1,0,10,400);
   xH = (yH - 889.5)/-4.45
   ellipse(xH,yH,5,5);
 
