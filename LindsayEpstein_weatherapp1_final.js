@@ -237,7 +237,7 @@ function draw(){
     textSize(textSizeMed-2);
     text(W + "   ",width/2+75, height/2+170-25);
     textSize(textSizeSmall-5);
-    text("                " + "mph",width/2+75, height/2+170-25);
+    text("                 " + "mph",width/2+75, height/2+170-25);
     textSize(textSizeSmall-1);
     text("Wind Speed", width/2+75, height/2+170-25+20);
     fill(0,0,102);
