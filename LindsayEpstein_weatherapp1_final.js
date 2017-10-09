@@ -148,7 +148,7 @@ function gotData(data) {
 
   T = currentWeather.temperature;
   H = currentWeather.humidity;
-  P = currentWeather.precipProbability;
+  P = currentWeather.precipProbability*100;
   W = currentWeather.windSpeed;
   A = currentWeather.apparentTemperature;
   C = currentWeather.cloudCover;
