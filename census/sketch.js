@@ -10,7 +10,7 @@ var maxValueTotal =0;
 function preload() {
   //my table is comma separated value "csv"
   //and has a header specifying the columns labels
-  table = loadTable("data/ACS_15_5YR_S2401_with_ann_Clean.csv", "csv");
+  table = loadTable("ACS_15_5YR_S2401_with_ann_Clean.csv", "csv");
 }
 
 function setup() {  
