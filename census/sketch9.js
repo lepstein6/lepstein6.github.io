@@ -1700,12 +1700,6 @@ function drawLabels(){
   fill(70,88,237);
   //ellipse(820,30,30,30);
   ellipse(800,50,15,15); 
-	
-	fill(0);
-	fontSize(12);
-	text("Female", 850,30);
-	text("Male", 850,50)
-	
 
 
   writeEducationLabels();
