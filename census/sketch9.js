@@ -1702,6 +1702,7 @@ function drawLabels(){
   ellipse(800,50,15,15); 
 	
 	fill(0);
+	fontSize(12);
 	text("Female", 850,30);
 	text("Male", 850,50)
 	
