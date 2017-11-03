@@ -384,7 +384,7 @@ function writeTitle(){
   
   textAlign(CENTER);
   textSize(18);
-  text("Education, Occupations and Earnings by Sex",450,35);
+  text("Education, Occupation and Earnings by Sex",450,35);
 
   // textAlign(LEFT);
   noStroke();
