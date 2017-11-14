@@ -60,6 +60,18 @@ function setup() {
 //  createGraph("United States 2015");
   noFill();
   ellipse(450,300,400,400);
+	
+	drawLabels();
+      strokeWeight(1.5);
+      stroke(70,88,237);
+      drawMale_Education();
+      drawMale_Occupation();
+
+      stroke(244,65,239);
+      drawFemale_Education();
+      drawFemale_Occupation();
+
+      drawellipse();
 
   // writeEducationLabels();
 
