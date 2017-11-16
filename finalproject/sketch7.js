@@ -97,11 +97,18 @@ function setup() {
   Cars = [myCar, myCar2, myCar3, myCar4, myCar5, myCar6, myCar7, myCar8, myCar9, myCar10, myCar11, myCar12,
   myCar13, myCar14, myCar15, myCar16, myCar17, myCar18, myCar19, myCar20, myCar21, myCar22, myCar23, myCar24,
   myCar25, myCar26,myCar27,myCar28,myCar29,myCar30,myCar31,myCar32,myCar33,myCar34,myCar35,myCar36];
-  // parseData();
+  
+	noStroke();
+	fill(0,0,0);
+	textAlign(CENTER);
+	textSize(14);
+	text('Press Space to Advance', Cwidth/2, 50);
+	// parseData();
 //  findMaxValueTotal();
 //  createGraph("United States 2015");
 
   // writeEducationLabels();
+
 
 }
 
