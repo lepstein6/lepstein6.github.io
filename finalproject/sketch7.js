@@ -102,7 +102,7 @@ function setup() {
 	fill(0,0,0);
 	textAlign(CENTER);
 	textSize(14);
-	text('Press Space to Advance', Cwidth/2, 50);
+	text("Press Space to Advance", 300, 50);
 	// parseData();
 //  findMaxValueTotal();
 //  createGraph("United States 2015");
