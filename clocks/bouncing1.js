@@ -11,6 +11,8 @@ var y3 = 0;
 function setup(){
 	createCanvas(500,500);
 	background(220);
+	
+	canvas.parent('bouncingClock'); 
 }
 
 
