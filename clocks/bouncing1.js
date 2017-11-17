@@ -7,9 +7,10 @@ var y2 = 0;
 var xPos3 = 100;
 var y3 = 0;
 
+var canvas;
 
 function setup(){
-	createCanvas(500,500);
+	canvas = createCanvas(500,500);
 	background(220);
 	
 	canvas.parent('bouncingClock'); 
