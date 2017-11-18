@@ -262,7 +262,6 @@ function draw(){
 
 
 
-	console.log(revS)
 }
 
 // number of bounces in 30 seconds = Hours (big ball), Minutes (middle), or seconds (small)
