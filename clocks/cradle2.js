@@ -16,10 +16,14 @@ var xH = 1;
 var pH = 0;
 var revH = 1;
 
+var canvas;
+
 
 function setup(){
-	createCanvas(800,550);
+	canvas = createCanvas(800,550);
 	background (220);
+	
+	canvas.parent('cradleClock');
 
 }
 
