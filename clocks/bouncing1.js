@@ -75,8 +75,8 @@ function draw(){
 
 	
 
-	console.log(second());
-	console.log("it is: " + hour() +" hours and " + minute() + " minutes and " + second() + " seconds")
+//	console.log(second());
+//	console.log("it is: " + hour() +" hours and " + minute() + " minutes and " + second() + " seconds")
 }
 
 // number of bounces in 30 seconds = Hours (big ball), Minutes (middle), or seconds (small)
