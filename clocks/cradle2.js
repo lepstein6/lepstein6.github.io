@@ -23,7 +23,7 @@ function setup(){
 	canvas = createCanvas(800,550);
 	background (220);
 	
-	canvas.parent('cradleClock');
+//	canvas.parent('cradleClock');
 
 }
 
