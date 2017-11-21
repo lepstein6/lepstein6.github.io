@@ -33,7 +33,7 @@ var Cars = [];
 var currentCar;
 
 var N = 38;
-var lines = 126;
+var lines = 320;
 
 
 
