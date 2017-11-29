@@ -1,7 +1,7 @@
 $(document).ready(function() {
     $.ajax({
         type: "GET",
-        url: "data/BCV_runningRecord.csv",
+        url: "data/10_PFTG_RunningRecord.csv",
         dataType: "text",
         success: function(data) {parseData(data);}
      });
