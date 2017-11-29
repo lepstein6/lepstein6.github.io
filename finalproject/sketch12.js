@@ -407,7 +407,7 @@ function keyPressed (){
       fill(0,0,0);
       textAlign(CENTER);
       textSize(18);
-      text('Pattern:  '+ sensors[index*N+36], Cwidth/2-130, Cheight-40);
+      text('User Study Pattern:  '+ sensors[index*N+36], Cwidth/2-130, Cheight-40);
 
       var n1 = float(sensors[(index-1)*N+37]);
       var n2 = float(sensors[(index)*N+37]);
