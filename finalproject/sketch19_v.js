@@ -154,14 +154,14 @@ var q = function (p){
     p.noFill();
     p.rect(x1-1,y1-1,362,362);
 
-    img1 = p.loadImage("checkerboard.png");
+    img1 = p.loadImage("Checkerboard.png");
     img2 = p.loadImage("M.png");
     img3 = p.loadImage("Slash.png"); // different?
     img4 = p.loadImage("ul.png");
 //     img5 = p.loadImage("Slash.png"); //different?
-    img6 = p.loadImage("stary.png");
+    img6 = p.loadImage("Stary.png");
 //     img7 = p.loadImage("Slash.png");
-    img8 = p.loadImage("diagonal.png");// different?
+    img8 = p.loadImage("Diagonal.png");// different?
     img9 = p.loadImage("Random.png");
     img10= p.loadImage("ZigZag.png");
     img11 = p.loadImage("square.png");
